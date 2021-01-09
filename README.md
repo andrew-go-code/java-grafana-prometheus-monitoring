@@ -4,7 +4,7 @@
 We've got SpringBoot java application. 
 Task is to collect some metrics via Prometheus and view them via Grafana. 
 
-## Pre-requirements for Java Aap
+## Pre-requirements for Java App
 
 * Dependencies
 ```
